@@ -12,4 +12,11 @@ At the end of this session, you should learn :
 4) How to use android views' listeners to listen for button clicks.
 5) Basic android resources files.
 
-![image](https://user-images.githubusercontent.com/60224159/157775331-fc7dfbea-2010-4394-af9c-9177156fa5a7.png)
+## The proposed layout : 
+![image](https://user-images.githubusercontent.com/60224159/157776832-67661789-f718-42bb-ad1b-d93ea5dfae67.png)
+
+## Layout Margins and Gravity :
+![image](https://user-images.githubusercontent.com/60224159/157776842-3b8eb35e-8f04-4572-a9a2-6a280f56be10.png)
+
+## Padding :
+![image](https://user-images.githubusercontent.com/60224159/157776850-845bd4c7-ce76-4426-b384-46cd25bf6539.png)
